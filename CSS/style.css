@@ -1,0 +1,21 @@
+html{
+	background: url(../images/background.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.container{
+	width 	: 60%;
+	margin 	: 0 auto;
+	background : rgba(230, 25, 230);
+	border-radius : 40px;
+	padding 	: 60px;
+}
+
+ul{
+	list-style : none;
+}
+
+
